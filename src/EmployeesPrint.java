@@ -17,8 +17,8 @@ public class EmployeesPrint {
     }
 
     public static void main(String []args){
-        PrintAllEmployees();
+        printAllEmployees();
         System.out.println("");
-        PrintAllEmployeesOver50();
+        printAllEmployeesOver50();
     }
 }
