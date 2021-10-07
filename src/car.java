@@ -1,5 +1,5 @@
 public class car {
-    
+
     static String model;
     static int price;
 
