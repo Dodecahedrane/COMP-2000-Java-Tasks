@@ -1,7 +1,7 @@
 public class car {
 
-    static String model;
-    static int price;
+    String model;
+    int price;
 
     public void start(){
 
