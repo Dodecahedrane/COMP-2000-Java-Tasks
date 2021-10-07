@@ -2,13 +2,13 @@ public class EmployeesPrint {
     static String[] names = {"Dave","Steve","Bob","Jess"};
     static int[] ages = {23,52,99,34};
 
-    public static void PrintAllEmployees(){
+    public static void printAllEmployees(){
         for(int i = 0; i < names.length; i++){
             System.out.print(names[i] + " " + ages[i] + "\n");
         }
     }
 
-    public static void PrintAllEmployeesOver50(){
+    public static void printAllEmployeesOver50(){
         for(int i = 0; i < names.length; i++){
             if(ages[i]>=50){
                 System.out.print(names[i] + " " + ages[i] + "\n");
