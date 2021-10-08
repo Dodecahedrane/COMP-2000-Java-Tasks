@@ -11,7 +11,6 @@
 ![book class diagram](https://i.imgur.com/MJ6l70s.png)
 
 -	Create a Java program to implement a stopwatch () method
--	Write a java program to classify the grade of students based on their mark
 -	Write a Java program to create the following class to increase the value by one until it gets equal to the value of MAX
 
 ![counter class diagram](https://i.imgur.com/1ZoQIjU.png)
