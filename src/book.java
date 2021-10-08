@@ -1,7 +1,7 @@
 public class book {
     public String title;
     public String author;
-    public int year;
+    private int year;
 
     public void printTitle(){
         System.out.println(title);
