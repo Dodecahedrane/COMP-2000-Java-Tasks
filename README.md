@@ -15,4 +15,5 @@
 
 ![counter class diagram](https://i.imgur.com/1ZoQIjU.png)
 
--	Write a java program to create a class, BankAccount, that has two private attributes: balance :int and accNo: String. It performs two operations deposit (int: amount) and printBalance(). The balance is increased every time the customer adds an amount of money, which is performed by the deposit operation. 
+- Write a java program to create a class, BankAccount, that has two private attributes: balance :int and accNo: String. It performs two operations deposit (int: amount) and printBalance(). The balance is increased every time the customer adds an amount of money, which is performed by the deposit operation. 
+- Create a class in Java that called Calculator. Calculator should Add, Multiply, Divide and Subtract two numbers, then use them in the main method. 
