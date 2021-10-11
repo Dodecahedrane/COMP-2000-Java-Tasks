@@ -1,5 +1,5 @@
 public class counter {
-    public int MAX = 100;
+    public final int MAX = 100;
     public int value;
 
     public void increment(){
