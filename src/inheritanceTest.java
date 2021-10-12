@@ -15,11 +15,16 @@ class specificText extends inheritanceTest{
     public void Text(){
         System.out.println("specific text");
     }
+
+    public void OtherMethod(){
+        System.out.println("Some other text");
+    }
 }
 
 class Main{
     public static void main(String[] args){
-        specificText Text = new specificText();
-        Text.Text();
+        specificText text = new specificText();
+        text.Text();
+        text.OtherMethod();
     }
 }
