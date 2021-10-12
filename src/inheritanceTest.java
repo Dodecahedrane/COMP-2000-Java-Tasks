@@ -6,7 +6,7 @@ public class inheritanceTest {
 
 //You can make abstract classes where you dont have to implement any of the methods
 
-//public abstract class inheritancetest {
+//public abstract class inheritanceTest {
 //  public void Text();
 //}
 
