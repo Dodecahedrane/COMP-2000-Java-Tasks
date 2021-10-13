@@ -16,10 +16,6 @@
 ![counter class diagram](https://i.imgur.com/1ZoQIjU.png)
 
 - Write a java program to create a class, BankAccount, that has two private attributes: balance :int and accNo: String. It performs two operations deposit (int: amount) and printBalance(). The balance is increased every time the customer adds an amount of money, which is performed by the deposit operation. [Completed](https://github.com/Dodecahedrane/COMP-2000-Java-Tasks/blob/main/src/bank.java) 
-- Write a java program to create a list of Books considering the class Book below; call the related methods from a different class
-
-![book 2 class diagram](https://i.imgur.com/euZRy3r.jpg)
-
 - Write a java program to store students in an Array List and then print out names of all students who are passed (the mark should be 40 or more to pass) – enable user input (5-10 students)
 
 ![student class diagram](https://i.imgur.com/vvObelt.jpg)
