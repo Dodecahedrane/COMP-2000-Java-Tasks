@@ -23,5 +23,3 @@
 ![book 2 class diagram](https://i.imgur.com/clVQ356.jpg)
 
 - Write a java programm to create Rectangle and Cube Classes that implement the interface, Shape, that has two abstract methods draw() and howManySides()
-- Write a java programm to create Apple, Banana and Tomato Classes to implement the interface, Plant, that has three abstract methods kind(), tast() and colour()
-- Write a java program to call the devide and multiply methods of the Calculator class that you implemented in previous activity list to add and devide two numbers x and y (user input). Note the call should be performed fom a different class e.g. class Main
