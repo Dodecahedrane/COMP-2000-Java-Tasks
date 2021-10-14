@@ -22,4 +22,4 @@
 
 ![book 2 class diagram](https://i.imgur.com/clVQ356.jpg)
 
-- Write a java programm to create Rectangle and Cube Classes that implement the interface, Shape, that has two abstract methods draw() and howManySides()
+- Write a java programm to create Rectangle and Cube Classes that implement the interface, Shape, that has two abstract methods draw() and howManySides() [Completed](https://github.com/Dodecahedrane/COMP-2000-Java-Tasks/blob/main/src/Shape.java)
