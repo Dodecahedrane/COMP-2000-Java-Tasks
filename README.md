@@ -1,6 +1,8 @@
 # COMP 2000 Java Tasks
 ## Basic Intro To Java Tasks For Software Engineering 2
 
+Bellow are the weekly tasks set for COMP 2000. They are in chronological order and tasks that have been completed have links to the relevent java file.
+
 ## Tasks:
 
 - Write a java program to print out a list of employees’ names and age (use two arrays) [Completed](https://github.com/Dodecahedrane/COMP-2000-Java-Tasks/blob/main/src/EmployeesPrint.java)
