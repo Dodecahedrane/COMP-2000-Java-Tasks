@@ -1,4 +1,4 @@
-package com.example.loginappweek3;
+package com.example.loginappweek3task;
 
 import org.junit.Test;
 
